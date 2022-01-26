@@ -1,0 +1,27 @@
+body {
+    background-color: darkorange;
+}
+
+h2 {
+    text-shadow: 1px 0.5px 2px darkcyan;
+    font-weight: 700;
+    text-align: center;
+    color: black;
+}
+
+table {
+    border: 2px solid black;
+    width: 100%;
+    background-color:bisque;
+    color:black;
+}
+
+tr {
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+    display: relative;
+    
+}
